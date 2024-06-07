@@ -1,3 +1,8 @@
+## About me
+
+
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
 👀 I’m interested in Data Analytics
 
 🌱 I’m currently learning data analytics tools like Power BI, Tableau, Excel, Python, SQL, etc.
