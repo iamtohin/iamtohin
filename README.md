@@ -1,7 +1,7 @@
 ## About me
 
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Mohammad Tohin Bapari. Welcome to my Github profile.
 
 👀 I’m interested in Data Analytics
 
