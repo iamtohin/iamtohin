@@ -13,8 +13,8 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     1|  Python
+|     2|   SQL    |
+|     3|  Matlab  |
 
 </details>
